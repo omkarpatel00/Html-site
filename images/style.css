@@ -1,0 +1,321 @@
+﻿/**
+ * Site Designed by : Ramesh.Bandaru, January 2010
+ * Copyright (c) 2006 SRResearch labs, Inc.
+ * For Bhadrachala sree ramachandra swamy devastanams officail website
+ * Strictly prohibited copying without written permission of this document 
+ * or any kind of line in this file.
+ */
+body,table,td,tr 
+{
+	font-family: Verdana;
+	font-size : 11px;
+	line-height:14px;
+	
+}
+
+.whitetxt
+{
+	font-family: Verdana;
+	font-size :11px;
+	color:#FFFFFF;
+	line-height:14px;
+}
+
+.redtitle{
+
+color:#CC0000;
+font-weight:bold;
+}
+
+
+.bold
+{
+	font-family: Verdana;
+	font-size :11px;
+	color:#DAD08B;
+	font-weight:bold;
+	line-height:14px;
+}
+.text
+{
+	font-family: Verdana;
+	font-size : 11px;
+	color:#E9E6CF;
+	line-height:14px;
+}
+.green
+{
+	font-family: Verdana;
+	font-size : 11px;
+	color:#2E5557;
+	line-height:14px;
+}
+.blue
+{
+	font-family: Verdana;
+	font-size : 11px;
+	color:#1A4263;
+	line-height:14px;
+}
+.red
+{
+	font-family: Verdana;
+	font-size : 11px;
+	color:#4A3012;
+	line-height:14px;
+}
+A.leftmenu
+{
+	FONT-FAMILY:  Verdana;
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	font-weight:bold;
+	TEXT-DECORATION:none;
+}
+A.leftmenu:hover
+{
+	FONT-FAMILY:  Verdana;
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	font-weight:bold;
+	TEXT-DECORATION: none;
+}
+.leftmenuselected
+{
+	FONT-FAMILY:  Verdana;
+	FONT-SIZE: 10px;
+	COLOR: black;
+	font-weight:bold;
+	TEXT-DECORATION: none;
+}
+
+A
+	{
+		color:#525252;
+		TEXT-DECORATION: none;			
+  	  	FONT-FAMILY: Verdana;	  	  	
+  	  	FONT-WEIGHT: normal;
+   	}
+
+A:hover
+	{
+		color:#525252;
+		TEXT-DECORATION: underline;
+  	  	FONT-FAMILY: Verdana;	  	  	
+  	  	FONT-WEIGHT: normal;
+   	}
+
+A.top
+	{
+		color:#2E5557;
+		TEXT-DECORATION: none;			
+  	  	FONT-FAMILY: Verdana;	  	  	
+  	  	FONT-WEIGHT: bold;
+  	  	FONT-SIZE:10px;
+   	}
+
+A.top:hover
+	{
+		color:#4A3012;
+		TEXT-DECORATION: underline;
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: bold;
+	  	FONT-SIZE:10px;
+	}
+.smbold
+	{
+		color:#4A3012;
+		TEXT-DECORATION: none;
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: bold;
+	  	FONT-SIZE:12px;
+	}
+.smbold:hover
+	{
+		color:#1A4263;
+		TEXT-DECORATION: underline;
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: bold;
+	  	FONT-SIZE:12px;
+	}
+
+
+.BOTTOM
+	{
+		color:#C9C9C9;
+		TEXT-DECORATION: none;			
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: normal
+		FONT-SIZE: 10px;
+   	}
+A.BOTTOM
+	{
+		color:#C9C9C9;
+		TEXT-DECORATION: none;			
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: normal
+		FONT-SIZE: 10px;
+   	}
+A.BOTTOM:hover
+		{
+			color:#C9C9C9;
+			TEXT-DECORATION: underline;
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: normal;
+	 	}
+
+A.homelink
+		{
+			color:#ffffff;
+			TEXT-DECORATION: none;			
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: normal;
+			
+	   	}
+
+A.homelink:hover
+		{
+			color:#ffffff;
+			TEXT-DECORATION: underline;
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: normal;
+	   	}
+			
+.copyright
+		{
+	  	  	TEXT-DECORATION:NONE;
+	  	  	FONT-FAMILY:  Verdana;
+	  	  	FONT-SIZE: 10px;
+			Color:#C9C9C9;
+	   	}
+		
+.privacy
+		{
+			color:#FFFFFF;
+	  	  	FONT-FAMILY: Verdana;
+	  	  	FONT-SIZE: 8pt;
+	  	  	FONT-WEIGHT: normal;
+	   	}
+.home
+		{
+			color:#525252;
+	  	  	FONT-FAMILY: Verdana;
+			BACKGROUND-COLOR: FFFFFF;
+	  	  	FONT-SIZE: 8pt;
+	  	  	FONT-WEIGHT: normal;
+			line-height:2;
+	   	}			
+A.bodylink
+		{
+			color:#DAD08B;
+			TEXT-DECORATION: none;			
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: bold;
+	   	}
+A.bodylink:hover
+		{
+			color:#518C92;
+			TEXT-DECORATION: underline;
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: bold;
+	   	}
+.gallbold
+{
+	font-family: Verdana;
+	font-size :11px;
+	color:#3A3A3A;
+	font-weight:bold;
+	line-height:14px;
+}
+.wplus
+		{
+	  	  	TEXT-DECORATION:NONE;
+	  	  	FONT-FAMILY:  Verdana;
+	  	  	FONT-SIZE: 8px;
+			Color:White;
+	   	}
+.pop
+	{
+		color:#C9C9C9;
+		TEXT-DECORATION: none;			
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: normal
+		FONT-SIZE: 10px;
+   	}
+A.pop
+	{
+		color:#C9C9C9;
+		TEXT-DECORATION: none;			
+	  	FONT-FAMILY: Verdana;	  	  	
+	  	FONT-WEIGHT: bold;
+		FONT-SIZE: 10px;
+   	}
+A.pop:hover
+		{
+			color:#C9C9C9;
+			TEXT-DECORATION: underline;
+	  	  	FONT-FAMILY: Verdana;	  	  	
+	  	  	FONT-WEIGHT: bold;
+	 	}
+ 	
+	  .title{
+	  color:#993300;
+	  font-weight:bold;
+	
+	}
+
+.redlink
+{
+	font-family:Verdana;
+	font-size:11px;
+	color:#ba0f05;
+	text-decoration:underline;
+}
+	  .redlink:hover
+{
+	font-family:Verdana;
+	font-size:11px;
+	color:#ba0f05;
+	text-decoration:underline;
+}
+.yellowbold{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#85ff02;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:1px solid red;
+}
+ 	.yellowlink{
+	font-family:Arial, Helvetica, sans-serif;
+	color:yellow;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:1px solid yellow;
+}
+	.yellowlink:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	color:white;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:1px solid red;
+}
+
+	.whitelink{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:white;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:1px solid white;
+}
+	.whitelink:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:white;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:1px solid red;
+}
